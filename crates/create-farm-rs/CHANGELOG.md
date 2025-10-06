@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.0.2](https://github.com/audienell6SaraNguyen/farm/compare/create-farm-v2.0.1...create-farm-v2.0.2) - 2025-10-06
+
+### Other
+
+- Update documentation
+
 ## [2.0.1](https://github.com/farm-fe/farm/compare/create-farm-v2.0.0...create-farm-v2.0.1) - 2025-09-21
 
 ### Other
