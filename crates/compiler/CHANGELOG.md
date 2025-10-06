@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.1.1](https://github.com/audienell6SaraNguyen/farm/compare/farmfe_compiler-v2.1.0...farmfe_compiler-v2.1.1) - 2025-10-06
+
+### Other
+
+- updated the following local packages: farmfe_plugin_runtime
+
 ## [2.1.0](https://github.com/farm-fe/farm/compare/farmfe_compiler-v2.0.0...farmfe_compiler-v2.1.0) - 2025-09-21
 
 ### Added
