@@ -184,3 +184,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - implement rust hmr interface ([#25](https://github.com/farm-fe/farm/pull/25))
 - Refactor build stage to support HMR ([#24](https://github.com/farm-fe/farm/pull/24))
 - Feat/dynamic rust plugin ([#22](https://github.com/farm-fe/farm/pull/22))
+
+<!-- Auto-update: 2025-10-07T01:47:46.445498 -->
